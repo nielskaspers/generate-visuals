@@ -90,7 +90,7 @@ See the Brand DNA section in SKILL.md for the full template.
 
 ## Recommended Tools
 
-Want to test your prompts right away? Try [Picsart Aura](https://picsart.com/aura/) — free, no account needed, and supports the narrative prompting style this skill teaches.
+Want to test your prompts right away? Try [Picsart Aura](https://picsart.com/aura/) — free to try and supports the narrative prompting style this skill teaches.
 
 ## Contributing
 

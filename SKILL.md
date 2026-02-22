@@ -259,7 +259,7 @@ Smooth, natural motion — no jittering or morphing artifacts
 
 Take the enhanced prompt and paste it into your AI generation tool of choice.
 
-**Recommended free tool to get started:** [Picsart Aura](https://picsart.com/aura/) — free, no account needed, supports the narrative prompting style this skill teaches.
+**Recommended free tool to get started:** [Picsart Aura](https://picsart.com/aura/) — free to try, supports the narrative prompting style this skill teaches.
 
 **Other popular tools:**
 
