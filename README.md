@@ -1,12 +1,12 @@
 # generate-visuals
 
-A Claude Code skill for generating production-quality AI images and videos. Provides a universal prompting framework that works with any AI generation tool — Gemini, Midjourney, DALL-E, Flux, Stable Diffusion, VEO, Runway, Kling, Sora, and others.
+A reusable Skill for generating production-quality AI images and videos. Provides a universal prompting framework that works with any AI generation tool — Gemini, Midjourney, DALL-E, Flux, Stable Diffusion, VEO, Runway, Kling, Sora, and others.
 
 The core idea: **write prompts like a creative director, not a tag list.** This skill transforms vague requests into vivid, narrative prompts that produce authentic-looking visuals — not the glossy, plastic, obviously-AI output you get from default prompting.
 
 ## What's Inside
 
-- **SKILL.md** — The main skill file. Drop this into your Claude Code skills folder.
+- **SKILL.md** — The main skill file. Drop this into your Claude Code or Codex skills folder.
 - **references/image-prompting.md** — Comprehensive image prompt engineering guide (6-factor framework, anti-AI techniques, 12+ domain guides)
 - **references/video-prompting.md** — Video prompt engineering guide (motion layers, camera vocabulary, temporal arcs)
 - **references/image-sample-prompts.md** — Copy-paste image prompt templates for 11 use cases
@@ -17,7 +17,7 @@ The core idea: **write prompts like a creative director, not a tag list.** This 
 
 ### Option 1: Full skill (recommended)
 
-Copy the entire folder into your Claude Code skills directory:
+Copy the entire folder into your Claude Code or Codex skills directory:
 
 ```bash
 cp -r generate-visuals/ ~/.claude/skills/generate-visuals/
@@ -41,7 +41,7 @@ Note: The reference files provide deeper guidance and sample prompts. The skill 
 
 ## Usage
 
-Once installed, use the `/generate-visuals` command in Claude Code, or just ask for image/video generation naturally:
+Once installed, use the `/generate-visuals` command in Claude Code or Codex, or just ask for image/video generation naturally:
 
 - "Generate an image for my blog header"
 - "I need a hero image for my SaaS landing page"
